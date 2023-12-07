@@ -16,6 +16,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 8730269808512598049, guid: acfed23f313df7048b6a9ad80046b3c3, type: 3}
+      propertyPath: m_TagString
+      value: Stone
+      objectReference: {fileID: 0}
     - target: {fileID: 8736929400480020037, guid: acfed23f313df7048b6a9ad80046b3c3, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.3022438
